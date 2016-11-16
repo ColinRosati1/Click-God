@@ -1,0 +1,68 @@
+body {
+  color:black;
+  font-family: sans-serif;
+  font-size: 6px; 
+  text-transform: uppercase;
+  background: transparent;
+
+}
+
+
+.buttonView {
+  -webkit-box-align: center;
+  -webkit-box-pack: center;
+  -webkit-box-sizing: border-box;
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex-shrink: 0;
+  min-height: 500px;
+  min-width: 130px;
+  transition: background 1000ms,border 1000ms,box-shadow 1000ms,color 1000ms;
+}
+
+#foo {
+    padding-top: 20px;
+    margin: 2px;
+    display: block;
+    padding-top:-1%;
+    text-align: center;
+    position: fixed;
+    width:120px;
+    max-height: 80%;
+    height:100%;
+    right:0px;
+    background: ;
+    z-index: 220;
+    opacity: ;
+  }
+
+#box {
+        margin:5px;
+        padding-left: 10px;
+        width:100px;
+        height:100px;
+        background: url("http://lorempixel.com/400/200");
+        margin-left: 2px;
+
+    }
+
+#wrapper {
+
+}
+
+#headline {
+
+}
+
+#headline1 {
+    
+}
+
+#headline2 {
+ 
+}
+
+#headline3 {
+   
+}
